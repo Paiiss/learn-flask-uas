@@ -1,0 +1,4 @@
+1: Belajar Python (not completed)
+2: Mengerjakan tugas kuliah (completed)
+3: Membuat aplikasi sederhana (completed)
+4: Lorem (completed)

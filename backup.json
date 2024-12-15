@@ -1,0 +1,6 @@
+[
+  { "id": 1, "task": "Belajar Python", "completed": false },
+  { "id": 2, "task": "Mengerjakan tugas kuliah", "completed": false },
+  { "id": 3, "task": "Membuat aplikasi sederhana", "completed": false },
+  { "task": "Lorem", "id": 4, "completed": false }
+]
